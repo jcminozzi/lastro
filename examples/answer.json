@@ -1,0 +1,31 @@
+{
+  "answer": "O prazo para solicitar reembolso de despesas é de 14 dias corridos após a data da compra. A solicitação deve incluir o comprovante e a descrição da finalidade da despesa.",
+  "abstained": false,
+  "citations": [
+    {
+      "chunk_id": "reembolsos.txt:2:1",
+      "quote": "O prazo para solicitar reembolso de despesas é de 14 dias corridos após a data da compra. A solicitação deve incluir o comprovante e a descrição da finalidade da despesa."
+    }
+  ],
+  "provider": "extractive",
+  "usage": {
+    "input_tokens": 0,
+    "output_tokens": 0
+  },
+  "retrieved": [
+    {
+      "id": "reembolsos.txt:2:1",
+      "source": "reembolsos.txt",
+      "paragraph": 2,
+      "text": "O prazo para solicitar reembolso de despesas é de 14 dias corridos após a data da compra. A solicitação deve incluir o comprovante e a descrição da finalidade da despesa.",
+      "score": 2.484907
+    },
+    {
+      "id": "reembolsos.txt:3:1",
+      "source": "reembolsos.txt",
+      "paragraph": 3,
+      "text": "O limite de reembolso de alimentação em viagens é de R$ 90,00 por dia. Valores acima do limite exigem aprovação prévia do gestor.",
+      "score": 0.549306
+    }
+  ]
+}
